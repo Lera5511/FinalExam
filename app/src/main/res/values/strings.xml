@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pushkin_a_s">Pushkin A S</string>
+    <string name="tolstoy_l_n">Tolstoy L N</string>
+    <string name="chechov_a_p">Chechov A P</string>
+    <string name="library">Library</string>
+    <string name="content">Content</string>
+    <string name="library_fragment">Library:</string>
+    <string name="content_fragment">Content:</string>
+</resources>

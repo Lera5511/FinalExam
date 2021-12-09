@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/library_menu"
+        android:icon="@drawable/library_icon"
+        android:title="@string/library" />
+
+    <item
+        android:id="@+id/content_menu"
+        android:icon="@drawable/content_icon"
+        android:title="@string/content" />
+
+</menu>
